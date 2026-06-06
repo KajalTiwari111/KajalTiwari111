@@ -3,7 +3,7 @@
 <h3 align="center">MBA Student · Data Analyst · HR Analytics · Business Intelligence</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/kajal-tiwari-analyst">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
@@ -91,7 +91,7 @@ I'm actively looking for **Data Analyst, HR Analyst, Business Analyst, and MIS E
 If you're hiring or open to connecting — let's talk.
 
 <p>
-  <a href="www.linkedin.com/in/kajal-tiwari-analyst">
+  <a href="https://www.linkedin.com/in/kajal-tiwari-analyst">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tiwarikajal692138@gmail.com">
